@@ -1,30 +1,27 @@
-# Hi there 👋
-***- EN CONSTRUCTION -***  
-Bonjour  
-***Bienvenue***
-## Présentation
-Je vous *propose* des **solutions web**.  
-~~Problèmes~~  
-<mark>Contact</mark>
+# Hi there 👋 ***- EN CONSTRUCTION -***  
+Bonjour  🙋‍♂️
+***Bienvenue***  
+📧 <mark>Contact</mark>
+![ManSurfingGIF](https://github.com/Dylhunt46/Dylhunt46/assets/106805251/d0043214-082c-4184-be67-8914632d48e6)
+
+
+
+## Présentation  
+ 🧑‍💻 Développeur Intégrateur Web  
+ 🖥️ Développeur Java
 ## Services
-1<sup>1</sup>
-1<sub>1</sub>
+Je vous *propose* des **solutions web**.  
+~~Problèmes~~ 
 ## Langages
+
 ### Balisage
 #### Markdown
+
 #### HTML
+This is `code`
+## Réalisations
+### Projets Formations
+[Ohmyfood](https://dylhunt46.github.io/ohmyfood/)
 
-<!--
-**Dylhunt46/Dylhunt46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+©️ 2024 Dyldev 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
