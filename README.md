@@ -1,7 +1,7 @@
-# Hi there 👋 ***- EN CONSTRUCTION -***  
+# Hi there 👋 ***- EN CONSTRUCTION -***  📧 <mark>Contact</mark>  
 Bonjour  🙋‍♂️
 ***Bienvenue***  
-📧 <mark>Contact</mark>
+
 ![ManSurfingGIF](https://github.com/Dylhunt46/Dylhunt46/assets/106805251/d0043214-082c-4184-be67-8914632d48e6)
 
 
