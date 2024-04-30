@@ -20,7 +20,7 @@
     <img alt="Logo NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img alt="Logo NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" />
     <img alt="Logo NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/303654/java-logo.svg" />
-    <img alt="Logo NodeJS" height="40" width="50" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
+    <img alt="Logo NodeJS" height="30" width="40" src="https://tse2.mm.bing.net/th?id=OIP.zeQ4kZkfdqXn3xesbTc6_wHaFI&pid=Api&P=0&w=300&h=300" />
   </div>
 
   <h3>I'm currently studying</h3>  
