@@ -6,7 +6,7 @@
   </div>
 </div>
 <h1 align="center"> Hello World ! 👋 </h1> 
-<p align="center">Passionate and retrained web developer, immersed in web and programming languages for over 2 years.</p>
+<p align="center">Passionate and retrained developer, immersed in web and programming languages for over 2 years.</p>
 <p align="center">My theoretical knowledge and my practice allowed me to develop technical skills and qualities essential to a developer.</p>
 
 <p align="center">Rigorous, curious and with a good team spirit, I am looking for a new challenge to put my skills to good use.</p>
