@@ -19,15 +19,15 @@ Mes expériences en entreprise et en stage m'ont permis de développer des comp�
     <img alt="Logo Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img alt="Logo ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img alt="Logo NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img alt="Logo NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" />
     <img alt="Logo NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/303654/java-logo.svg" />
     <img alt="Logo NodeJS" height="40" width="50" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
   </div>
 
   <h3>I'm currently studying</h3>  
-        <img alt="Logo NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" />
-        <img alt="Logo NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/303208/php-1-logo.svg" />
+    <img alt="Logo NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/303208/php-1-logo.svg" />
  <h3>I plan to study this year</h3>  
-        <img alt="Logo NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
+    <img alt="Logo NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
     
 
   <h3>Tools I've used</h3>
