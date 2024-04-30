@@ -1,4 +1,5 @@
-# Hi there 👋 ***  📧 <mark>Contact</mark>  
+# Hi there 👋 ***  📧 <mark>Contact</mark> 
+<h1 align="center"> Hi there 👋 </h1> 
 Bonjour  🙋‍♂️
 ***Bienvenue***  
 
