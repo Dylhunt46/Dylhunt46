@@ -6,6 +6,11 @@
   </div>
 </div>
 <h1 align="center"> Hello World ! 👋 </h1> 
+<p align="center">Développeur Web passionné et reconverti, je possède 2 ans d'expérience et suis doté d'une forte expertise en langages web et Java.
+
+Mes expériences en entreprise et en stage m'ont permis de développer des compétences techniques solides et des qualités essentielles à un développeur performant.</p>
+
+<p align="center">Rigoureux, curieux et doté d'un excellent esprit d'équipe, je suis à la recherche d'un nouveau challenge pour mettre mes compétences à profit.</p>
 <div align="center">
   <div style="display: inline_block"><br>
   <h3 >I've already work with</h3>
