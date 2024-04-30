@@ -1,4 +1,4 @@
-# Hi there 👋 ***- EN CONSTRUCTION -***  📧 <mark>Contact</mark>  
+# Hi there 👋 ***  📧 <mark>Contact</mark>  
 Bonjour  🙋‍♂️
 ***Bienvenue***  
 
