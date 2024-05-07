@@ -9,7 +9,7 @@
 <p align="center">Passionate and retrained developer, immersed in web and programming languages for over 2 years.</p>
 <p align="center">My theoretical knowledge and my practice allowed me to develop technical skills and qualities essential to a developer.</p>
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2YzMWZmYjExYjdjMTk2ZWI5YTNjZTM5ZDFiMDkyNGI2YWJhNTQ2MyZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/b5wLrOXCjhfrGzxM5T/giphy.webp" width="15%" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2YzMWZmYjExYjdjMTk2ZWI5YTNjZTM5ZDFiMDkyNGI2YWJhNTQ2MyZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/b5wLrOXCjhfrGzxM5T/giphy.webp" width="20%" />
 </div>
 
 <p align="center">Rigorous, curious and with a good team spirit, I am looking for a new challenge to put my skills to good use.</p>
